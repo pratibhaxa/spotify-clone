@@ -22,7 +22,7 @@ class Premium extends Component{
                             <br/><br/><br/>
                             <h1>Get 3 months of Premium for free</h1>
                             <h2>Enjoy ad-free music listening, offline playback, and more.</h2>
-                            <h2>Cancel anytime.</h2><br/>
+                            <h2>Cancel anytime. </h2><br/>
                             <button className='premiumbutton1' type='button'>GET 3 MONTHS FREE</button> &nbsp;
                             <button className='premiumbutton2' type='button'>VIEW PLANS</button><br/><br/><br/>
                             <p className='premiumtnc'>Monthly subscription fee applies after. Open only to users who haven't already tried Premium. Offer excludes<br/> Family and Duo plans. <a href='https://www.spotify.com/us/legal/end-user-agreement/'>Terms and conditions apply</a>. Offer ends 30 September 2021.</p>
