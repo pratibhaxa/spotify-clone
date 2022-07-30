@@ -1,0 +1,22 @@
+.header{
+    background-color: black;
+    color: white;
+    height: 80px;
+}
+.spotifyimage1{
+    position: absolute;
+    top: 15px;
+    left: 60px;
+    width: 130px;
+    height: 45px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: bold;
+}
+.controls{
+    position: absolute;
+    right: 80px;
+    top: 25px;
+}

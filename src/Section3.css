@@ -1,0 +1,34 @@
+.footer{
+    background-color: black;
+    color: white;
+
+}
+.spotifyimage2{
+    position: absolute;
+    top: 1340px;
+    left: 60px;
+    width: 130px;
+    height: 40px;
+}
+.table3{
+    padding-left: 250px;
+    padding-bottom: 100px;
+    text-align: left;
+    width: 840px;
+    height: 350px;
+}
+.table3 tr th{
+    font-size: small;
+    color: gray;
+}
+.table4{
+    padding-bottom: 55px;
+    color: gray;
+    padding-left: 60px;
+    font-size: smaller;
+    width: 1200px;
+}
+.footer2{
+    text-align: right;
+    padding-left: 100px;
+}

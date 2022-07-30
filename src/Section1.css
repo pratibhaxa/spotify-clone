@@ -1,0 +1,30 @@
+.section1div{
+    background-color: #b92c2c;
+    color: white;
+    padding-left: 60px;
+}
+.section1div h5{
+    font-size: 15px;
+}
+.section1div h1{
+    font-size: 55px;
+}
+.button1{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    height: 50px;
+    width: 270px;
+    font-weight: 600;
+}
+.girlimage{
+    /* position: absolute; */
+    /* top: 155px; */
+    /* right: 70px; */
+    /* right: ; */
+    width: 400px;
+
+}
+.left{
+    width: 735px;
+}
